@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Set bash strict mode (fail on errors, undefined variables, and via pipes)
 set -euxo pipefail
 
 SAMPLE_DATA_DIR="sample_data"
